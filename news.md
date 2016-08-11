@@ -1,4 +1,6 @@
-02-Dec-2013 : New Rocskmith Custom Song Toolkit released with full support for create custom songs for Rocksmith 2014;
+11-Aug-2016 : Issued Rocksmith Custom Song Toolkit Version 2.7.0.0  See for details: https://github.com/rscustom/rocksmith-custom-song-toolkit/releases/tag/2.7.0.0
+
+02-Dec-2013 : New Rocksmith Custom Song Toolkit released with full support for create custom songs for Rocksmith 2014;
 
 01-Dec-2013 : The first development milestone achieved, all important issues are fixed like glitch in song play for consoles, special characteres in package and song creation and minor packages generation issues.
 
