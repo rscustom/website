@@ -1,3 +1,5 @@
+20-Sep-2018 : Rocksmith Custom Song Toolkit - Version 2.9.0.0 Released. &nbsp;&nbsp; Updates and new feature release.&nbsp;&nbsp; Click here for revision details and downloads:  [Release Notes](https://github.com/rscustom/rocksmith-custom-song-toolkit/releases/tag/2.9.0.0)
+
 2-Jul-2017 : Rocksmith Custom Song Toolkit - Version 2.8.4.0 Released. &nbsp;&nbsp; Updates and new feature release.&nbsp;&nbsp; Click here for revision details and downloads:  [Release Notes](https://github.com/rscustom/rocksmith-custom-song-toolkit/releases/tag/2.8.4.0)
 
 22-Jan-2017 : Rocksmith Custom Song Toolkit - Version 2.8.0.0 Released. &nbsp;&nbsp; Compatibilty upgraded for Remastered.&nbsp;&nbsp; Click here for revision details and downloads:  [Release Notes](https://github.com/rscustom/rocksmith-custom-song-toolkit/releases/tag/2.8.0.0)
