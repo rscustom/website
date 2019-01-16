@@ -1,4 +1,4 @@
-01-Jan-2019 : Rocksmith Custom Song Toolkit - Version 2.9.1.0 Latest Build.&nbsp;&nbsp;
+01-Jan-2019 : Rocksmith Custom Song Toolkit - Version 2.9.1.0 Latest Build.
 :As of the New Year, the toolkit Latest Build is the only officially supported version.  Make sure you have it downloaded and installed if you need to ask for help.  All other legacy builds are unsupported, so use at your own risk!&nbsp;&nbsp;
 :A new Mac Wineskin port of the toolkit is now available for download.  The Mac Wine port is recommended for most Mac users.  Click on the **Mac Wine port** button or [CLICK HERE](ignition.customsforge.com/cfsm_uploads/rstools_mac/RocksmithTools.dmg) to download the disk image, and follow the included ReadMe instructions once you have mounted the image. &nbsp;&nbsp;
 :The Mono build of the toolkit is still available for expert Mac users.  The Mono build has very limited support that comes mostly from its users.
